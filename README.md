@@ -1,2 +1,3 @@
 # FocusTime
-A Timer (Pomodoro) App Built In React Native
+
+Built In React Native
